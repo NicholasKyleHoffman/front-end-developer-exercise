@@ -1,0 +1,18 @@
+#results {
+  display: flex;
+  align-items: center;
+  box-shadow: 1px 1px 5px 3px rgba(22, 21, 24, 0.18);
+  width: 100%;
+  height: 45px;
+  min-height: 45px;
+  position: relative;
+  background: #6A3AD8;
+  z-index: 11;
+  font-style: #fff;
+  padding-left: 0.5%;
+}
+
+/* Added padding to push griddle table below purple header */
+.griddle {
+  padding-top: 21%;
+}
